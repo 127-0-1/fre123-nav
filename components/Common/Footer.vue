@@ -9,7 +9,7 @@
 						href="https://9527nav.vercel.app/"
 						target="_blank"
 						class="decoration-transparent text-[#a4715c]"
-						>9527</a
+						>@9527</a
 					>
 				</span>
 			</div>
